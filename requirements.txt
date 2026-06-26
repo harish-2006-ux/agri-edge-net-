@@ -1,0 +1,21 @@
+# EdgeAgri-Net Dependencies
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Frontend
+streamlit>=1.20.0
+plotly>=5.0.0
+pandas>=2.0.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# ONNX Export & Runtime
+onnx>=1.17.0
+onnxruntime>=1.17.0
+onnxscript>=0.1.0
+
+# Utilities
+numpy>=1.23.0
